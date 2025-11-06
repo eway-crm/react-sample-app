@@ -10,9 +10,9 @@ Hello and welcome to eWay-CRM job interview. We are happy to see you playing aro
 
 To be able to run this project on your own computer, you will need [NPM & Node.JS](https://www.npmjs.com/get-npm).
 
-### Duplicate and Run Non-Publicly
+### Duplicate and Run Non-Publicly, Do Not Fork
 
-To install and run this project on your computer, please create a private repository and [duplicate](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/duplicating-a-repository) this repository to it.
+To install and run this project on your computer, please create a **private** repository and [duplicate](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/duplicating-a-repository) this repository to it. **Do not fork** this repo.
 Once you have all the sources on your computer, open command line in the directory where the repository was cloned into (the directory where `.gitignore` and `README.md` files are located). Run
 
 ```
